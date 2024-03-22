@@ -1,6 +1,6 @@
 {
-  "name": "gh-react",
-  "homepage": "https://marcusveres.github.io/gh-react",
+  "name": "web-layout-viewer",
+  "homepage": "https://marcusveres.github.io/web-layout-viewer",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
