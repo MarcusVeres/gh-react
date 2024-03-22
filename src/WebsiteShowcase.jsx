@@ -14,7 +14,7 @@ const WebsiteShowcase = () => {
 
   return (
     <div className="flex items-center justify-center w-full h-full">
-      <div class="fixed top-0 right-0 flex flex-row space-x-2">
+      <div className="fixed top-0 right-0 flex flex-row space-x-2">
         <button
           className="px-4 py-2 duration-300 ease-in bg-slate-800 text-slate-100 hover:bg-slate-600 transition-color"
           onClick={() => resizePreview(340, 600)}
@@ -48,7 +48,7 @@ const WebsiteShowcase = () => {
       </div>
       <iframe
         src="https://marcusveres.github.io/web-layouts/marketing-app.html" // "http://example.com"
-        class="iframe"
+        className="iframe"
         width={width}
         height={height}
         style={{ border: "none" }}
