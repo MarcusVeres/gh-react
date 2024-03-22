@@ -47,7 +47,7 @@ const WebsiteShowcase = () => {
         </button>
       </div>
       <iframe
-        src="https://marcusveres.github.io/web-layouts/marketing-app.html" // "http://example.com"
+        src="https://marcusveres.github.io/web-layouts/" // "https://marcusveres.github.io/web-layouts/marketing-app.html"
         className="iframe"
         width={width}
         height={height}
